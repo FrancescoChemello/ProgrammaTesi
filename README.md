@@ -5,7 +5,7 @@ E' presente un file pdf contenente tutta la documentazione.
 
 # Contenuto release:
   - WebScraping.py: il programma che effettua l'estrapolazione dei dati e li salva in un file 'data.xlsx' contenuto nella cartella 'result'.
-  - CheckResults.py: un programma extra che controlla che tutti i dati salvati estrapolati siano stati salvati correttamente.
+  - CheckResults.py: un programma extra che controlla che tutti i dati siano stati salvati correttamente _(controlla che tutti i link riportati nel file 'links.txt' siano stati salvati nel file 'data.xlsx')_.
   
   _gli altri file servono per il corretto funzionamento del programma_
   
