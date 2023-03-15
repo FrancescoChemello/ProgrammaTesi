@@ -12,6 +12,7 @@ E' presente un file pdf contenente tutta la documentazione.
 
 # Eseguire il programma:
 _(per versione 3.2.38)_
+
 Per eseguire il programma scaricare il file .zip . Estrarre i dati dalla cartella ed avviare il file 'WebScraping.py'. Se si vuole vedere un esempio del funzionamento del programma è consigliato avviarlo in modalità di test. Per farlo digitare 'y' alla prima istruzione. Il tempo di una run in modalità test è di circa 10 minuti.
 
 
