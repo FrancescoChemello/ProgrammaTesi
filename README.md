@@ -23,7 +23,7 @@ I dati linguistici vengono salvati all'interno della cartella 'result' in un fil
   - Vocabolo.
   - Definizione: la definizione che spiega il vocabolo.
   - Tipo. 
-  - Documenti referenziati e archivio documenti referenziati: quali documenti sono stati referenziati dal vocabolo e da chi.
+  - Archivio documenti referenziati: quali documenti sono stati referenziati dal vocabolo e da chi.
   - Numero di documenti referenziati dal vocabolo.
   - URL della pagina.
   - Data di salvataggio del record.
